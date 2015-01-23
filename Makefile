@@ -35,7 +35,7 @@ help:
 .PHONY: FilePrinter
 FilePrinter: FilePrinter/file_printer.cpp
 	$(CXX) FilePrinter/file_printer.cpp -o FilePrinter/FilePrinter $(CFLAGS)
-	$(GDB) $(VALGRIND) ./FilePrinter/FilePrinter FilePrinter/test.txt FilePrinter/test2.txt
+	$(GDB) $(VALGRIND) ./FilePrinter/FilePrinter FilePrinter/hcms_cougar.txt FilePrinter/ut_computer_science.txt
 
 .PHONY: clean
 clean:

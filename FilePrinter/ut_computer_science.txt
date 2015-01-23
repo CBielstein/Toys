@@ -1,0 +1,40 @@
+                  #######                               UU  UU  TTTTTT
+                  |||||||                               UU  UU  TTTTTT
+                  |||||||                               UU  UU    TT
+                  |||||||                               UU  UU    TT
+                  |||||||                               UUUUUU    TT
+                  |||||||                               UUUUUU    TT
+                  |||||||
+                  #######
+                ~~~~~~~~~~~                             CCCCCC  OOOOOO    MM  MM    PPPPPP  UU  UU  TTTTTT  EEEEEE  RRRRRR
+                |-O-O-O-O-|                             CCCCCC  OOOOOO   MMMMMMMM   PP  PP  UU  UU  TTTTTT  EEEEEE  RR  RR
+                ~~~~~~~~~~~                             CC      OO  OO  MM  MM  MM  PP  PP  UU  UU    TT    EE      RR  RR
+                |-O-O-O-O-|                             CC      OO  OO  MM  MM  MM  PPPPPP  UU  UU    TT    EEEEEE  RRRR
+                ~~~~~~~~~~~                             CCCCCC  OOOOOO  MM  MM  MM  PP      UUUUUU    TT    EE      RR  RR
+                |-O-O-O-O-|                             CCCCCC  OOOOOO  MM  MM  MM  PP      UUUUUU    TT    EEEEEE  RR   RR
+                ~~~~~~~~~~~
+                |-O-O-O-O-|
+                ~~~~~~~~~~~                             SSSSSS  CCCCCC  IIIIII  EEEEEE  NN    NN  CCCCCC  EEEEEE
+                |-O-O-O-O-|                             SSSSSS  CCCCCC  IIIIII  EEEEEE  NNNN  NN  CCCCCC  EEEEEE
+                ~~~~~~~~~~~                             SS      CC        II    EE      NN NN NN  CC      EE
+                |-O-O-O-O-|                             SSSSSS  CC        II    EEEEEE  NN  NNNN  CC      EEEEE
+                ~~~~~~~~~~~                                 SS  CCCCCC  IIIIII  EE      NN   NNN  CCCCCC  EE
+                |-O-O-O-O-|                             SSSSSS  CCCCCC  IIIIII  EEEEEE  NN    NN  CCCCCC  EEEEEE
+                ~~~~~~~~~~~
+                |-O-O-O-O-|
+                ~~~~~~~~~~~
+                |-O-O-O-O-|
+                ~~~~~~~~~~~
+                |-O-O-O-O-|
+                ~~~~~~~~~~~
+                |-O-O-O-O-|
+                ~~~~~~~~~~~
+                |-O-O-O-O-|
+                ~~~~~~~~~~~
+       /"'"'"'"'"'"'"'"'"'"'"'"'"'"'"\
+     /"'"'"'"'"'"'"'"'"'"'"'"'"'"'"'"'"'"\
+  /"'"'"'"'"'"'"'"'"'"'"'"'"'"'"'"'"'"'"'"'"\
+  /"O"O"O"O"O"O"O"O"O"O"O"O"O"O"O"O"O"O"O"O"\
+  /"O"O"O"O"O"O"O"O"O"O"O"O"O"O"O"O"O"O"O"O"\
+  /"O"O"O"O"O"O"O"O"O"O"O"O"O"O"O"O"O"O"O"O"\
+  /"O"O"O"O"O"O"O"O"O"O"O"O"O"O"O"O"O"O"O"O"\
